@@ -8,7 +8,7 @@
   10 to 1180 + .0 to .255 Speed for Servo 1
 */
 
-#include 
+#include <VarSpeedServo.h>
 
 // Name Servos
 VarSpeedServo one;
